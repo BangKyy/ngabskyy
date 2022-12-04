@@ -1,6 +1,6 @@
 # Hi there, I'm Kyy - aka [rifkyzaidan](https://www.youtube.com/channel/UCNtVKQZIVFwFn0sfZfQCgbg) 👋
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8147ab03-2bd5-4415-bf24-5bc0056c1c56/deploy-status)](https://app.netlify.com/sites/kyy-portfolio-1/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2440fbc8-e284-4461-bc94-a90b31f927c2/deploy-status)](https://app.netlify.com/sites/ngabskyy/deploys)
 
 ## About me:
 - 🔭 I’m currently working at [Talun Senior High School](https://instagram.com/osmatablitar?igshid=YmMyMTA2M2Y=)
