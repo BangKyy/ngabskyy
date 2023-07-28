@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f7ef4d.css",
+    "main.js": "/static/js/main.8aff6799.js",
+    "static/media/web3.png": "/static/media/web3.50c3f5396122e511d853.png",
+    "static/media/about.jpg": "/static/media/about.d3d2a3ae78ce36437240.jpg",
+    "static/media/web4.png": "/static/media/web4.cb0a47d5b8df356fe0a6.png",
+    "static/media/web2.png": "/static/media/web2.6d3e69213c39197659c3.png",
+    "static/media/profile_update.jpg": "/static/media/profile_update.90f48e75ea7d291a1add.jpg",
+    "static/media/design1.png": "/static/media/design1.5f58690ea23413ef793d.png",
+    "static/media/Kyy-Cv.pdf": "/static/media/Kyy-Cv.de27692cbe3aaf8c5f94.pdf",
+    "static/media/design2.png": "/static/media/design2.c9547f3e94865a9b1a3d.png",
+    "static/media/sertifikat3.jpg": "/static/media/sertifikat3.add5226ba07f0dc86fac.jpg",
+    "static/media/sertifikat1.jpg": "/static/media/sertifikat1.20dd4a0f529caefd874e.jpg",
+    "static/media/web1.png": "/static/media/web1.5b53fe9210c37e4b06b9.png",
+    "static/media/sertifikat2.jpg": "/static/media/sertifikat2.46dea0f9ba451fecc21c.jpg",
+    "static/media/KyyLogo.png": "/static/media/KyyLogo.a6ae8ccf56922926ae6a.png",
+    "index.html": "/index.html",
+    "main.f9f7ef4d.css.map": "/static/css/main.f9f7ef4d.css.map",
+    "main.8aff6799.js.map": "/static/js/main.8aff6799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9f7ef4d.css",
+    "static/js/main.8aff6799.js"
+  ]
+}
