@@ -25,7 +25,7 @@
 }
 .qualification-sections{
     display: grid;
-    grid-template-columns: 0.5fr;
+    /* grid-template-columns: 0.5fr; */
     justify-content: center;
 }
 .qualification-content{

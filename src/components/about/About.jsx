@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Kyy-Cv.pdf";
+import CV from "../../assets/RifkyZaidanMiftahurrohman_CV.pdf";
 import Info from './Info';
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
                     <Info />
 
                     <p className="about-description">
-                        Frontend developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out. 
+                    I am a Junior Website Developer who is currently studying Bachelor of Graphic Design at Surabaya State University. I am skilled in UI/UX and Website Developer. Completed a total of 15 Developer Projects and 9 Design Projects.
                     </p>
 
                     <a download="" href={CV} className="button button--flex">

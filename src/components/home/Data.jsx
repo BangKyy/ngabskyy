@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home-data">
         <h1 className="home-title">
-        RIFKY ZAIDAN
+        KYY CODES
         {/* <svg
                   width="36"
                   height="36"
@@ -56,11 +56,10 @@ const Data = () => {
         </svg> */}
         </h1>
         <h3 className="home-subtitle">Web Developer</h3>
-        <p className="home-description">I'm Student of Talun Senior High School. I'am a web developer, still learning UI/UX, creativity starts from Graphic Design. You can call me Rifky.
-Here's a bit more about me.</p>
+        <p className="home-description">My name is Rifky Zaidan Miftahurrohman. I'm Junior website developer from Indonesia an active freelancer sharing about my journey and learnings in tech. <br /> <br /> I'm Studying Bachelor of Graphic Design at the <a href="https://www.unesa.ac.id/" className='univ-site'>Surabaya State University</a>,Indonesia. Opening a discussion space for collaboration and service also Ready to become a UI/UX Design mentor and Website Developer mentor.</p>
 
         <a href="#contact" className="button button--flex">
-        Say hello
+        Hire me
         <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

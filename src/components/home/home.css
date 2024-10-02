@@ -47,9 +47,14 @@
 .home-description{
     max-width: 400px;
     margin-bottom: var(--mb-3);
+    line-height: 20px;
+}
+.univ-site{
+    color: var(--title-color);
+    font-weight: var(--font-medium);
 }
 .home-img{
-    background: url(../../assets//profile_update.jpg);
+    background: url(../../assets/profile_update_v2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

@@ -48,7 +48,7 @@ export const projectsData = [
       image: Work4Web,
       title: "Event Web",
       category: "web",
-      link: "https://baratamadyaxi-smanta.site/",
+      link: "https://baratamadyaxi-smanta.netlify.app/",
     },
     {
       id: 5,

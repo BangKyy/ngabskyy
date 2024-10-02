@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-container container">
-                <h1 className="footer-title">RIFKY ZAIDAN</h1>
+                <h1 className="footer-title">KYY CODES</h1>
 
                 <ul className="footer-list">
                     <li>
@@ -22,7 +22,7 @@ const Footer = () => {
                 </ul>
 
                 <div className="footer-social">
-                    <a href="https://www.instagram.com/kyy.rip/" className="footer-social-link" target="_blank">
+                    <a href="https://www.instagram.com/kyy.dart/" className="footer-social-link" target="_blank">
                         <i className="bx bxl-instagram"></i>
                     </a>
 
@@ -33,10 +33,14 @@ const Footer = () => {
                     <a href="https://github.com/BangKyy" className="footer-social-link" target="_blank">
                         <i className="bx bxl-github"></i>
                     </a>
+                    
+                    <a href="https://www.behance.net/kyycodes" className="footer-social-link" target="_blank">
+                        <i className="bx bxl-behance"></i>
+                    </a>
                 </div>
 
                 <span className="footer-copy">
-                    &#169; Kyy. All rights reserved
+                    &#169;KyyCodes. All rights reserved
                 </span>
             </div>
         </footer>

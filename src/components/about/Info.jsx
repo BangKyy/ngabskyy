@@ -9,7 +9,7 @@ const Info = () => {
                 <h3 className="about-title">
                     Experience
                 </h3>
-                <span className="about-subtitle">3 Years Working</span>
+                <span className="about-subtitle">4 Years Experience</span>
             </div>
 
             <div className="about-box">
@@ -18,7 +18,7 @@ const Info = () => {
                 <h3 className="about-title">
                     Completed
                 </h3>
-                <span className="about-subtitle">10 Projects and <br /> 6 Learning</span>
+                <span className="about-subtitle">5 Big Projects and<br />10 Personal Projects<br /></span>
             </div>
 
             <div className="about-box">

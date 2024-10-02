@@ -31,42 +31,42 @@ const Services = () => {
 
                             <h3 className="services-modal-title">Web Developer</h3>
                             <p className="services-modal-description">
-                                Service with more than 1 year experience. Deliver quality work to clients.
+                                Service with more than 4 year experience. Deliver quality results to clients.
                             </p>
 
                             <ul className="services-modal-services grid">
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        I develop the user interface.
+                                        Can develop interactive websites.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Web page development.
+                                        Create static or dynamic landing pages.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        I create ux element interactions.
+                                        Simple layout and modern UI according to advances in the world of technology.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Solve certain problems.
+                                        Always maintain and debug the website to make users comfortable.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Design and product mockups for clients.
+                                    Using the latest tech stack also keeps up with technological developments.
                                     </p>
                                 </li>
                             </ul>
@@ -91,42 +91,42 @@ const Services = () => {
 
                             <h3 className="services-modal-title">UI/UX Designer</h3>
                             <p className="services-modal-description">
-                                Service with more than 6 month experience. Deliver quality work to clients.
+                                Service with more than 4 year experience. Deliver quality results to clients.
                             </p>
 
                             <ul className="services-modal-services grid">
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        I develop the user interface.
+                                        Design UI according to design rules and attractive user friendly.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Intermediate science of figma software.
+                                        Building UX to make it easier for users to interact.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        I create ui/ux element interactions.
+                                        Designing UI/UX using Figma and other components can be customized in Adobe Illustrator.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Prototype design according to the target.
+                                        The design is easy to apply to website and application displays.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Helping web developers Compile ui/ux.
+                                        Clients can interact with prototypes that have been created to make them easier to maintain.
                                     </p>
                                 </li>
                             </ul>
@@ -151,35 +151,35 @@ const Services = () => {
 
                             <h3 className="services-modal-title">Graphic Designer</h3>
                             <p className="services-modal-description">
-                                Service with more than 3 year experience. Deliver quality work to clients.
+                            Service with more than 1 year experience. Deliver quality results to clients.
                             </p>
 
                             <ul className="services-modal-services grid">
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        I develop the user interface.
+                                        Create product designs according to the given theme.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Make illustrations of certain themes.
+                                        Create product designs according to the given theme.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Make product designs according to the target.
+                                        Create design brands according to client's brand theme.
                                     </p>
                                 </li>
 
                                 <li className="services-modal-service">
                                     <i className="uil uil-check-circle services-modal-icon"></i>
                                     <p className="services-modal-info">
-                                        Designing a website according to the client's wishes.
+                                        Can be a Specialist Design according to client needs.
                                     </p>
                                 </li>
 

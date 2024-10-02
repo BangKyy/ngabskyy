@@ -6,7 +6,7 @@
 .skills-content{
     background-color: var(--container-color);
     border: 1px solid rgba(0, 0, 0, 0.1);
-    padding: 2rem 4rem;
+    padding: 2rem 3rem;
     border-radius: 1.25rem;
 }
 .skills-title{
@@ -19,6 +19,7 @@
     display: flex;
     justify-content: center;
     column-gap: 2.5rem;
+    align-items: flex-start;
 }
 .skills-group{
     display: grid;

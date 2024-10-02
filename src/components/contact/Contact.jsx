@@ -32,9 +32,9 @@ const Contact = () => {
                             <i className="bx bx-mail-send contact-card-icon"></i>
 
                             <h3 className="contact-card-title">Email</h3>
-                            <span className="contact-card-data">xenemies.27@gmail.com</span>
+                            <span className="contact-card-data">kyycodes.lab@gmail.com</span>
 
-                            <a href="mailto:xenemies.27@gmail.com" className="contact-button">
+                            <a href="mailto:kyycodes.lab@gmail.com" className="contact-button">
                                 Write me{" "}
                                 <i className="bx bx-right-arrow-alt contact-button-icon"></i>
                             </a>
@@ -44,9 +44,9 @@ const Contact = () => {
                             <i className="bx bxl-whatsapp contact-card-icon"></i>
 
                             <h3 className="contact-card-title">Whatsapp</h3>
-                            <span className="contact-card-data">0821-4062-xxxx</span>
+                            <span className="contact-card-data">0821-4062-7334</span>
 
-                            <a href="#" className="contact-button">
+                            <a href="wa.me/82140627334" className="contact-button">
                                 Write me{" "}
                                 <i className="bx bx-right-arrow-alt contact-button-icon"></i>
                             </a>
@@ -103,7 +103,7 @@ const Contact = () => {
                             </textarea>
                         </div>
 
-                        <button href="#contact" className="button button--flex">
+                        <button href={sendEmail} className="button button--flex">
                         Send Message
                         <svg
                                 class="button__icon"
