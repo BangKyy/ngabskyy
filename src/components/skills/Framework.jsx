@@ -28,7 +28,7 @@ const Framework = () =>{
                     <div className="skills-data">
                         <i class='bx bx-badge-check'></i>
                         <div>
-                            <h3 className="skills-name">Boostsrap</h3>
+                            <h3 className="skills-name">Booststrap</h3>
                             <span className="skills-level">Beginner</span>
                         </div>
                     </div>

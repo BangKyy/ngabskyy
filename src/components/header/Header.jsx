@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import "./header.css";
-import KyyLogo from "../../assets/KyyLogo.png";
+import KyyLogo from "../../assets/kyyLogoBlack.svg";
 
 const Header = () => {
     /*=============== Change Background Header ===============*/

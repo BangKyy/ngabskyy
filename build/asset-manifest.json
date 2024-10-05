@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2f4a51f.css",
-    "main.js": "/static/js/main.d1f2848a.js",
+    "main.css": "/static/css/main.f949d589.css",
+    "main.js": "/static/js/main.a529f742.js",
     "static/media/web3.png": "/static/media/web3.50c3f5396122e511d853.png",
     "static/media/profile_update_v2.jpg": "/static/media/profile_update_v2.d8eef8d91bc7205123b5.jpg",
     "static/media/about.jpg": "/static/media/about.d3d2a3ae78ce36437240.jpg",
-    "static/media/web4.png": "/static/media/web4.cb0a47d5b8df356fe0a6.png",
-    "static/media/web2.png": "/static/media/web2.6d3e69213c39197659c3.png",
-    "static/media/design1.png": "/static/media/design1.5f58690ea23413ef793d.png",
-    "static/media/design2.png": "/static/media/design2.c9547f3e94865a9b1a3d.png",
-    "static/media/sertifikat3.jpg": "/static/media/sertifikat3.add5226ba07f0dc86fac.jpg",
+    "static/media/web4.png": "/static/media/web4.b1b75dd20ea5ef1fae0a.png",
+    "static/media/web6.png": "/static/media/web6.3547103304e089f51b79.png",
+    "static/media/web5.png": "/static/media/web5.a7048c8d6aa47040c6b5.png",
+    "static/media/design4.png": "/static/media/design4.cef27f01b142aec2c0a5.png",
+    "static/media/sertifikat8.jpg": "/static/media/sertifikat8.381fd590161d78ccc6c1.jpg",
+    "static/media/sertifikat5.jpg": "/static/media/sertifikat5.012afedd2b754ff6d396.jpg",
+    "static/media/sertifikat4.jpg": "/static/media/sertifikat4.cd79f5141b2ca72a86e6.jpg",
+    "static/media/sertifikat7.jpg": "/static/media/sertifikat7.83fad8dc6cc35ed70e4f.jpg",
+    "static/media/sertifikat6.jpg": "/static/media/sertifikat6.c9df64552d0c523ff1cd.jpg",
+    "static/media/design3.png": "/static/media/design3.baee1923997ec3edbe41.png",
+    "static/media/design1.png": "/static/media/design1.4b0674bd97a8f6dab5e8.png",
+    "static/media/design2.png": "/static/media/design2.0874cfe662626677b8c8.png",
     "static/media/sertifikat1.jpg": "/static/media/sertifikat1.20dd4a0f529caefd874e.jpg",
-    "static/media/web1.png": "/static/media/web1.5b53fe9210c37e4b06b9.png",
     "static/media/sertifikat2.jpg": "/static/media/sertifikat2.46dea0f9ba451fecc21c.jpg",
-    "static/media/RifkyZaidanMiftahurrohman_CV.pdf": "/static/media/RifkyZaidanMiftahurrohman_CV.f8acca19282dd2d591d7.pdf",
-    "static/media/KyyLogo.png": "/static/media/KyyLogo.a6ae8ccf56922926ae6a.png",
+    "static/media/RifkyZaidanMiftahurrohman_CV.pdf": "/static/media/RifkyZaidanMiftahurrohman_CV.734078edd8aaf0d8e994.pdf",
+    "static/media/kyyLogoBlack.svg": "/static/media/kyyLogoBlack.25ca4335ad4ec92e6a7c68f288e46ce6.svg",
     "index.html": "/index.html",
-    "main.f2f4a51f.css.map": "/static/css/main.f2f4a51f.css.map",
-    "main.d1f2848a.js.map": "/static/js/main.d1f2848a.js.map"
+    "main.f949d589.css.map": "/static/css/main.f949d589.css.map",
+    "main.a529f742.js.map": "/static/js/main.a529f742.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2f4a51f.css",
-    "static/js/main.d1f2848a.js"
+    "static/css/main.f949d589.css",
+    "static/js/main.a529f742.js"
   ]
 }

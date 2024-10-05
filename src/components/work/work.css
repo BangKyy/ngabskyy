@@ -30,7 +30,7 @@
 }
 .work-img{
     width: 295px;
-    border-radius: 1rem;
+    border-radius: 8px;
     margin-bottom: var(--mb-1);
 }
 .work-title{
