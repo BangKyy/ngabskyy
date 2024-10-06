@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.f949d589.css",
-    "main.js": "/static/js/main.a529f742.js",
-    "static/media/web3.png": "/static/media/web3.50c3f5396122e511d853.png",
-    "static/media/profile_update_v2.jpg": "/static/media/profile_update_v2.d8eef8d91bc7205123b5.jpg",
-    "static/media/about.jpg": "/static/media/about.d3d2a3ae78ce36437240.jpg",
-    "static/media/web4.png": "/static/media/web4.b1b75dd20ea5ef1fae0a.png",
-    "static/media/web6.png": "/static/media/web6.3547103304e089f51b79.png",
+    "main.css": "/static/css/main.a1bb6f5c.css",
+    "main.js": "/static/js/main.5fb8f409.js",
     "static/media/web5.png": "/static/media/web5.a7048c8d6aa47040c6b5.png",
-    "static/media/design4.png": "/static/media/design4.cef27f01b142aec2c0a5.png",
-    "static/media/sertifikat8.jpg": "/static/media/sertifikat8.381fd590161d78ccc6c1.jpg",
-    "static/media/sertifikat5.jpg": "/static/media/sertifikat5.012afedd2b754ff6d396.jpg",
-    "static/media/sertifikat4.jpg": "/static/media/sertifikat4.cd79f5141b2ca72a86e6.jpg",
-    "static/media/sertifikat7.jpg": "/static/media/sertifikat7.83fad8dc6cc35ed70e4f.jpg",
-    "static/media/sertifikat6.jpg": "/static/media/sertifikat6.c9df64552d0c523ff1cd.jpg",
-    "static/media/design3.png": "/static/media/design3.baee1923997ec3edbe41.png",
-    "static/media/design1.png": "/static/media/design1.4b0674bd97a8f6dab5e8.png",
+    "static/media/web3.png": "/static/media/web3.c8a6f967b4666cfe7216.png",
+    "static/media/web4.png": "/static/media/web4.7a796ca7318439e43622.png",
     "static/media/design2.png": "/static/media/design2.0874cfe662626677b8c8.png",
+    "static/media/web6.png": "/static/media/web6.d3d21fca9fb3edbde773.png",
+    "static/media/about.jpg": "/static/media/about.276019d1bba88623443b.jpg",
+    "static/media/design4.png": "/static/media/design4.18b0b14c69373ff2be79.png",
+    "static/media/profile_update_v2.jpg": "/static/media/profile_update_v2.4357a1f6cab74babc12d.jpg",
+    "static/media/design3.png": "/static/media/design3.0523f2746e3a71e5fe92.png",
+    "static/media/sertifikat8.jpg": "/static/media/sertifikat8.018e22fd02138db4e305.jpg",
+    "static/media/sertifikat5.jpg": "/static/media/sertifikat5.03af300a6b004631d4f8.jpg",
+    "static/media/sertifikat4.jpg": "/static/media/sertifikat4.e28302da2ea152f5be5f.jpg",
+    "static/media/sertifikat7.jpg": "/static/media/sertifikat7.47f0f59d2caebb114710.jpg",
+    "static/media/sertifikat6.jpg": "/static/media/sertifikat6.266fd206d310d0da0e8f.jpg",
     "static/media/sertifikat1.jpg": "/static/media/sertifikat1.20dd4a0f529caefd874e.jpg",
+    "static/media/design1.png": "/static/media/design1.0bbacba5b182e9177324.png",
     "static/media/sertifikat2.jpg": "/static/media/sertifikat2.46dea0f9ba451fecc21c.jpg",
     "static/media/RifkyZaidanMiftahurrohman_CV.pdf": "/static/media/RifkyZaidanMiftahurrohman_CV.734078edd8aaf0d8e994.pdf",
     "static/media/kyyLogoBlack.svg": "/static/media/kyyLogoBlack.25ca4335ad4ec92e6a7c68f288e46ce6.svg",
     "index.html": "/index.html",
-    "main.f949d589.css.map": "/static/css/main.f949d589.css.map",
-    "main.a529f742.js.map": "/static/js/main.a529f742.js.map"
+    "main.a1bb6f5c.css.map": "/static/css/main.a1bb6f5c.css.map",
+    "main.5fb8f409.js.map": "/static/js/main.5fb8f409.js.map"
   },
   "entrypoints": [
-    "static/css/main.f949d589.css",
-    "static/js/main.a529f742.js"
+    "static/css/main.a1bb6f5c.css",
+    "static/js/main.5fb8f409.js"
   ]
 }
