@@ -27,14 +27,14 @@ export const projectsData = [
       image: Work2Design,
       title: "UI/UX PT Rumah Mesin Kreatif",
       category: "design",
-      link: "https://www.behance.net/gallery/200099901/AFC-Asian-Cup-App-UIUX-Design-Portfolio"
+      link: "https://www.behance.net/gallery/200107291/Heavy-Equipment-Company-UIUX-Design-Website"
     },
     {
       id: 3,
       image: Work3Design,
       title: "UI/UX AFC ASIAN CUP APP",
       category: "design",
-      link: "https://www.behance.net/gallery/200107291/Heavy-Equipment-Company-UIUX-Design-Website"
+      link: "https://www.behance.net/gallery/200099901/AFC-Asian-Cup-App-UIUX-Design-Portfolio"
     },
     {
       id: 4,
