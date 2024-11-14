@@ -1,8 +1,11 @@
 .work-filters{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     column-gap: 0.75rem;
+    row-gap: 0.10rem;
+    /* margin: var(--mb-0-5) var(--mb-2) var(--mb-0-5) 0; */
     margin-bottom: var(--mb-2);
 }
 .work-item{
@@ -21,6 +24,7 @@
     grid-template-columns: repeat(2, max-content);
     gap: 2rem;
     justify-content: center;
+    align-items: start;
 }
 .work-card{
     background-color: var(--container-color);
@@ -29,7 +33,7 @@
     border-radius: 1rem;
 }
 .work-img{
-    width: 295px;
+    width: 320px;
     border-radius: 8px;
     margin-bottom: var(--mb-1);
 }
@@ -37,6 +41,7 @@
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-0-5);
+    /* width: 90%; */
 }
 .work-button{
     color: var(--text-color);
@@ -44,6 +49,7 @@
     display: flex;
     align-items: center;
     column-gap: 0.25rem;
+    /* width: 90%;  */
 }
 .work-button-icon{
     font-size: 1rem;
