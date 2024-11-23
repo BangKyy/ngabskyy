@@ -1,20 +1,31 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import "./contact.css";
+import "./contact.css"
 
 const Contact = () => {
     const form = useRef();
+    const apiKey = process.env.REACT_APP_API_KEY;
+    const serviceId = process.env.REACT_APP_SERVICE_ID;
+    const templateId = process.env.REACT_APP_TEMPLATE_ID;
 
     const sendEmail = (e) => {
         e.preventDefault();
+        console.log(serviceId)
+        console.log(templateId)
+        console.log(apiKey)
 
-    emailjs
-    .sendForm(
-        'service_b6wk3ux', 
-        'template_u0xrdop', 
-        form.current, 
-        '5cWzVUJhFznRqUqrw'
-        )
+        emailjs
+        .sendForm(serviceId, templateId, form.current, {
+            publicKey: apiKey,
+        })
+        .then(
+            () => {
+            console.log('SUCCESS!');
+            },
+            (error) => {
+            console.log('FAILED...', error.text);
+            },
+      );
         e.target.reset()
     };
 
